@@ -39,8 +39,6 @@ public class stepDefination {
         }
     }
 
-    
-
     @When("^User login to the application with \"([^\"]*)\" and \"([^\"]*)\"$")
     public void user_login_to_the_application_with_and(String arg1, String arg2) throws Throwable {
     System.out.println("Running RE When");

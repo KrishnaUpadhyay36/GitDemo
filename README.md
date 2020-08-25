@@ -11,4 +11,4 @@ To run the project in Eclipse
 To run the project in command prompt 
 1. Download the project 
 2. Open command prompt in project directory 
-3. Run the command: mvn test => compile and test the project | mvn comple => to compile the project 
+3. Run the command: mvn comple => to compile the project | mvn test => To compile and test the project
